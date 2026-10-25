@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+# Published exe and the ffmpeg.exe next to it (see README).
+src/publish/
